@@ -2,6 +2,8 @@
 ### Hi there 😊😊😊, my name is Daniel Salazar, Im from colombia and I am currently in my first year of web development in Cornerstone international college I hope to have fun while making a lot of projects with my school mates.
 ======
 
+![JavaScript](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/900px-JavaScript-logo.png?20120221235433)
+
 
 <!--
 **Danielsalazar1109/Danielsalazar1109** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
