@@ -1,4 +1,7 @@
-### Hi there 👋
+<<<<<<< HEAD
+### Hi there, my name is Daniel Salazar, Im from colombia and I am currently in my first year of web development in Cornerstone international college I hope to have fun while making a lot of projects with my school mates.
+======
+
 
 <!--
 **Danielsalazar1109/Danielsalazar1109** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +17,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+[def]: https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.cleanpng.com%2Fpng-javascript-scalable-vector-graphics-logo-encapsula-6249368%2F&psig=AOvVaw3T9i0YwX0UOG8rDKCae0JA&ust=1715384850291000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNjmh9LggYYDFQAAAAAdAAAAABAJ
